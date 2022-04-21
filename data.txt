@@ -1,0 +1,145 @@
+
+ 
+  Wilayah : Dki Jakarta
+  Positif : 22242
+  Rawat : 44434
+  Sembuh : 34
+  Meninggal :5 
+  Operator : bayu dwi cahyo
+  Nim : 
+ 191011402426
+  Wilayah : 
+  Positif : 
+  Rawat : 
+  Sembuh : 
+  Meninggal : 
+  Operator : 
+  Nim : 
+ 
+  Wilayah : 
+  Positif : 
+  Rawat : 
+  Sembuh : 
+  Meninggal : 
+  Operator : 
+  Nim : 
+ 
+  Wilayah : 
+  Positif : 
+  Rawat : 
+  Sembuh : 
+  Meninggal : 
+  Operator : 
+  Nim : 
+ 
+  Wilayah : 
+  Positif : 
+  Rawat : 
+  Sembuh : 
+  Meninggal : 
+  Operator : 
+  Nim : 
+ 
+  Wilayah : 
+  Positif : 
+  Rawat : 
+  Sembuh : 
+  Meninggal : 
+  Operator : 
+  Nim : 
+ 
+  Wilayah : 
+  Positif : 
+  Rawat : 
+  Sembuh : 
+  Meninggal : 
+  Operator : 
+  Nim : 
+ 
+  Wilayah : 
+  Positif : 
+  Rawat : 
+  Sembuh : 
+  Meninggal : 
+  Operator : 
+  Nim : 
+ 
+  Wilayah : 
+  Positif : 
+  Rawat : 
+  Sembuh : 
+  Meninggal : 
+  Operator : 
+  Nim : 
+ 
+  Wilayah : 
+  Positif : 
+  Rawat : 
+  Sembuh : 
+  Meninggal : 
+  Operator : 
+  Nim : 
+ 
+  Wilayah : 
+  Positif : 
+  Rawat : 
+  Sembuh : 
+  Meninggal : 
+  Operator : 
+  Nim : 
+ 
+  Wilayah : 
+  Positif : 
+  Rawat : 
+  Sembuh : 
+  Meninggal : 
+  Operator : 
+  Nim : 
+ 
+  Wilayah : 
+  Positif : 
+  Rawat : 
+  Sembuh : 
+  Meninggal : 
+  Operator : 
+  Nim : 
+ 
+  Wilayah : 
+  Positif : 
+  Rawat : 
+  Sembuh : 
+  Meninggal : 
+  Operator : 
+  Nim : 
+ 
+  Wilayah : 
+  Positif : 
+  Rawat : 
+  Sembuh : 
+  Meninggal : 
+  Operator : 
+  Nim : 
+ 
+  Wilayah : Jawa Barat
+  Positif : 55445
+  Rawat : 332323
+  Sembuh : 343434
+  Meninggal : 0
+  Operator : bayu dwi cahyo
+  Nim : 191011402426
+ 
+  Wilayah : 
+  Positif : 
+  Rawat : 
+  Sembuh : 
+  Meninggal : 
+  Operator : 
+  Nim : 
+ 
+  Wilayah : Jawa Barat
+  Positif : 55445
+  Rawat : 332323
+  Sembuh : 343434
+  Meninggal : 0
+  Operator : bayu dwi cahyo
+  Nim : 191011402426
